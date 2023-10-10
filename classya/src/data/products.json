@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Anna Leather Pants",
+            "category": "pants",
+            "img": "https://i.pinimg.com/564x/02/55/e2/0255e29a2f47f5efb3c9a0a3503ce2fa.jpg",
+            "description": "A timeless leather pant that complements any outfit.",
+            "price": 50
+        },
+        {
+            "id": 2,
+            "name": "Ellen Tuxedo Trousers",
+            "category": "pants",
+            "img": "https://i.pinimg.com/564x/f7/17/d9/f717d928a8d1b9953276b88b40e0f3ff.jpg",
+            "description": "Dapper tuxedo trousers for a touch of elegance.",
+            "price": 60
+        },
+        {
+            "id": 3,
+            "name": "David Wool Trousers",
+            "category": "pants",
+            "img": "https://i.pinimg.com/564x/bd/87/79/bd8779db262910175fa2eb17097fad75.jpg",
+            "description": "Elevate your style with these sophisticated wool trousers.",
+            "price": 70
+        },
+        {
+            "id": 4,
+            "name": "Julia Wide-Leg Pants",
+            "category": "pants",
+            "img": "https://i.pinimg.com/564x/74/8c/0a/748c0adf66977340db4d588ebadbfdab.jpg",
+            "description": "Elegant wide-leg pants that exude grace and poise.",
+            "price": 55
+        },
+        {
+            "id": 5,
+            "name": "Jenna Silk Shirt",
+            "category": "shirts",
+            "img": "https://i.pinimg.com/564x/d2/ce/e8/d2cee86cc23ebf7f8ca3d94e597c8779.jpg",
+            "description": "A luxurious silk shirt with a touch of sophistication.",
+            "price": 45
+        },
+        {
+            "id": 6,
+            "name": "Classic Oxford Shirt",
+            "category": "shirts",
+            "img": "https://i.pinimg.com/564x/c7/48/75/c748755286ef166f698831e1395143c2.jpg",
+            "description": "A timeless Oxford shirt for a polished look.",
+            "price": 55
+        },
+        {
+            "id": 7,
+            "name": "Ella Silk Blouse",
+            "category": "shirts",
+            "img": "https://i.pinimg.com/564x/3f/ea/64/3fea64698d3f7ab16b9994ca16c041d4.jpg",
+            "description": "A silk blouse that effortlessly combines elegance and comfort.",
+            "price": 50
+        },
+        {
+            "id": 8,
+            "name": "Sophia Wool Sweater",
+            "category": "sweater",
+            "img": "https://i.pinimg.com/564x/9d/23/c9/9d23c92ec64939d48892b2c712cb552a.jpg",
+            "description": "Stay cozy and stylish with this wool sweater.",
+            "price": 60
+        },
+        {
+            "id": 9,
+            "name": "Colleen Sweater",
+            "category": "sweaters",
+            "img": "https://i.pinimg.com/564x/9a/34/0c/9a340cf8ffb57b007b53842882fb029c.jpg",
+            "description": "Stay warm in this luxurious cashmere sweater.",
+            "price": 70
+        },
+        {
+            "id": 10,
+            "name": "Rome Sweater",
+            "category": "sweaters",
+            "img": "https://i.pinimg.com/564x/00/05/b3/0005b362b2745b9360cb70190a382c83.jpg",
+            "description": "A versatile sweater inspired by the elegance of Rome.",
+            "price": 75
+        },
+        {
+            "id": 11,
+            "name": "Nancy Cardigan",
+            "category": "sweaters",
+            "img": "https://i.pinimg.com/564x/e2/52/7b/e2527b58537825f81b65b9671a65546c.jpg",
+            "description": "Stay chic with this versatile and sophisticated cardigan.",
+            "price": 65
+        },
+        {
+            "id": 12,
+            "name": "Ella Leather Handbag",
+            "category": "accessories",
+            "img": "https://i.pinimg.com/564x/21/f8/27/21f82730bbf8a8c0478f84e9f19ad7cb.jpg",
+            "description": "Complete your ensemble with this classic leather handbag.",
+            "price": 50
+        },
+        {
+            "id": 13,
+            "name": "Daisy Pearl Necklace",
+            "category": "accessories",
+            "img": "https://i.pinimg.com/564x/ec/77/84/ec77849c0fdef958145e51480a279cce.jpg",
+            "description": "Add a touch of grace with this exquisite pearl necklace.",
+            "price": 55
+        },
+        {
+            "id": 14,
+            "name": "James Scarf",
+            "category": "accessories",
+            "img": "https://i.pinimg.com/564x/65/2d/22/652d220c13a94bc337bf4e2dc8a6a88b.jpg",
+            "description": "Complete your look with this stylish scarf.",
+            "price": 65
+        },
+        {
+            "id": 15,
+            "name": "Natalie Earrings",
+            "category": "accessories",
+            "img": "https://i.pinimg.com/564x/09/49/9c/09499cce9e5b1f88641acb4331bd41f9.jpg",
+            "description": "Add a touch of glamour with these elegant earrings.",
+            "price": 75
+        }
+    ]
+}
