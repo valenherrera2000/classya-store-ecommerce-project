@@ -18,11 +18,9 @@ export const ShoppingCartProvider = ({ children }) => {
                         return item;
                     }
                 });
-                console.log("Item added to cart:", updatedCart);
                 return updatedCart;
             } else {
                 const newItem = { id, quantity: 1, price };
-                console.log("New item added to cart:", newItem);
                 return [...currItems, newItem];
             }
         });

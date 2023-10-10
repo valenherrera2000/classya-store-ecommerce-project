@@ -163,7 +163,7 @@ const Checkout = () => {
             </div>
             <div className="checkout-buttons">
                 <Link to="/finish" style={{ textDecoration: 'none' }}>
-                    <button onClick={clearCart}>Finish</button>
+                    <button onClick={handleFinishClick}>Finish</button>
                 </Link>
                 <Link to="/" style={{ textDecoration: 'none' }}>
                     <button onClick={clearCart}>Cancel</button>

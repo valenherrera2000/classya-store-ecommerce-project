@@ -40,7 +40,6 @@ const Categories = () => {
         removeFromCart(productId);
     };
 
-    console.log("Cart in Categories component:", cart);
 
 
     // Define getCategoryName function
